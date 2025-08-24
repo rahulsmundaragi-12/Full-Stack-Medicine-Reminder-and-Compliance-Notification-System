@@ -1,1 +1,0 @@
-print("jai ganesha jai hanuman jai shree ram raghavendraya namaha shivaya namaha devre saraswati tayi devre kapdappa kapadappa tayi kapadamma kapadamma")
